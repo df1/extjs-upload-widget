@@ -1,5 +1,9 @@
 @CHARSET "UTF-8";
 
+.dashed-upload-box{
+	border: gray dashed 5px!important;
+}
+
 .ux-mu-status-value {
 	float: right;
 	min-width: 16px;
