@@ -1,8 +1,9 @@
 File upload widget for ExtJS v4.1
 =================================
 
-This project is forked from [ivan-novakov](https://github.com/ivan-novakov)
-Added drag-and-drop-file features.
+This project is forked from [ivan-novakov](https://github.com/ivan-novakov).
+Adding drag-and-drop-file feature allowing user to drag files into the grid body.
+![Screenshot](https://raw.github.com/df1/extjs-upload-widget/master/public/img/drag-drop.jpeg)
 
 
 Features
